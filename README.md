@@ -1,4 +1,4 @@
-# Practice and Important facts from OCA 8 Book - selikoff
+# Practice and Important facts from OCA 8 Book -  OCA 8 Book ( selikoff)  - refactored 
 
 This repository was created by the purpose of track my learning throughout the book. 
 
