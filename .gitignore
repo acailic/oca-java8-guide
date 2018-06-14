@@ -7,6 +7,7 @@
 *.jar
 *.war
 *.ear
+*.rar
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
@@ -16,5 +17,6 @@ hs_err_pid*
 
 #Folder from IntelliJ
 test-using-ide/.idea/
+test-using-ide/target/
 Reviews Questions/
 OCA Oracle Certified Associate Java SE 8 Programmer I Study Guide Exam 1Z0-808.pdf
